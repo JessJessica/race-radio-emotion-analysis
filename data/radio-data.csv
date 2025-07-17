@@ -1,4 +1,34 @@
+
 lap,driver,message
-1,HAM,"The car feels good, but traffic is annoying."
 5,VER,"Need to push harder, this is tight!"
+1,HAM,"The car feels good, but traffic is annoying."
 10,LEC,"That crash was scary, stay focused."
+5,LAN,"Tyre temperatures are holding well, let's keep this pace."
+15,LAN,"Traffic ahead, keep me posted on gaps."
+30,LAN,"Fuel looks good, no issues so far."
+40,LAN,"Almost there, just need to maintain focus."
+52,LAN,"I can't believe it! First win at home, thank you, thank you!"
+
+3,PIA,"Losing time on these tyres, pushing as hard as I can."
+14,PIA,"Box now for fresh tyres, let's try an undercut."
+25,PIA,"Engine feels good, but grip is dropping."
+35,PIA,"I'll give it everything to recover after that penalty."
+48,PIA,"This is a joke! How is that a penalty?!"
+
+2,HUL,"Car is handling well, maintaining good pace."
+16,HUL,"Need to conserve tyres a bit, but let's keep pressure."
+28,HUL,"Gap to the car behind is stable, no mistakes."
+41,HUL,"Almost there, team. This podium means a lot."
+50,HUL,"We did it! Finally a podium, unbelievable!"
+
+4,HAM,"Trying to manage tyres and keep consistent lap times."
+18,HAM,"Car balance is tricky, adjusting driving style."
+27,HAM,"Pushing hard to catch the leaders."
+39,HAM,"Sorry I couldn't bring it home, but thank you for the support."
+47,HAM,"Great job team, solid points for the championship."
+
+6,VER,"Grip is low, struggling to keep the car on track."
+20,VER,"Box this lap, fresh tyres needed urgently."
+33,VER,"Engine temp rising, monitoring closely."
+44,VER,"Pushing hard to salvage points, all in."
+53,VER,"That was a disaster, we need to analyze what went wrong."
