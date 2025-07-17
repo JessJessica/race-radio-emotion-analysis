@@ -8,7 +8,7 @@ import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import matplotlib.pyplot as plt
 
-st.title("F1 Race Radio Emotion Analysis")
+st.title("F1 Race Radio Emotion Analysis - Silverstone 2025")
 
 @st.cache_data
 def load_data():
