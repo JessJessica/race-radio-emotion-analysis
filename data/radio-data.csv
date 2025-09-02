@@ -1,8 +1,10 @@
 lap,driver,message
 5,LAN,"Tyre temperatures are holding well, let's keep this pace."
 15,LAN,"Traffic ahead, keep me posted on gaps."
-30,LAN,"Fuel looks good, no issues so far."
-40,LAN,"Almost there, just need to maintain focus."
+27,LAN,"Yeah, they’re okay, yep"
+30,LAN,"Yes, it’s still just wet everywhere, so yes"
+37,LAN,"Yeah, drying out. Some places are a little bit dry, not put slicks yet"
+44,LAN,"A lot of debris a lot of debris on-track. I think it’s off the racing line though"
 52,LAN,"I can't believe it! First win at home, thank you, thank you!"
 
 3,PIA,"Losing time on these tyres, pushing as hard as I can."
@@ -28,3 +30,16 @@ lap,driver,message
 33,VER,"Engine temp rising, monitoring closely."
 44,VER,"Pushing hard to salvage points, all in."
 53,VER,"That was a disaster, we need to analyze what went wrong."
+
+2,STR,"It’s still very wet, man"
+5,STR,"It's just the last sector"
+6,STR,"I think whatever you think"
+10,STR,"You're sure?"
+
+2,ALO,"Wet in the sector we spoke about"
+6,ALO,"Same, getting drier and last sector wet, but there are people with dry tyres so you know better than me. What are they doing? Surely we will grain the tyres a lot soon. But I don’t know when the rain comes and all these kind of things"
+9,ALO,"Yeah, a lot of graining"
+11,ALO,"Lower grip in six and seven. Very low grip"
+14,ALO,"Yeah but which position are we, and how? Why have we lost so many places"
+35,ALO,"It’s damp in some places, but obviously a lot of graining so not very fast at the moment."
+52,ALO,"Terrible race, as you see"
